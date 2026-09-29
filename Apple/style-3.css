@@ -1,0 +1,326 @@
+.container {
+  display: grid;
+  gap: 4px;
+  padding: 4px;
+  background-color: black;
+  grid-template-rows: repeat(3, 200px);
+  grid-template-columns: repeat(3, 1fr);
+}
+.container-1 {
+  display: grid;
+  gap: 4px;
+  padding: 4px;
+  background-color: gray;
+  grid-template-rows: repeat(2);
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-areas:
+    "ulaan-1 bor-1 shar-1"
+    "tsenher-1 nogoon-1 huh-1";
+}
+.chold-1 {
+  grid-area: ulaan-1;
+  background-color: red;
+}
+.chold-2 {
+  grid-area: bor-1;
+  background-color: brown;
+}
+.chold-3 {
+  grid-area: shar-1;
+  background-color: orange;
+}
+.chold-4 {
+  grid-area: tsenher-1;
+  background-color: blue;
+}
+.chold-5 {
+  grid-area: nogoon-1;
+  background-color: greenyellow;
+}
+.chold-6 {
+  grid-area: huh-1;
+  background-color: aqua;
+}
+.container-2 {
+  display: grid;
+  gap: 4px;
+  padding: 4px;
+  background-color: gray;
+  grid-template-rows: repeat(2);
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-areas:
+    "ulaan-2 ulaan-2 shar-2"
+    "tsenher-2 nogoon-2 shar-2";
+}
+.chald-1 {
+  grid-area: ulaan-2;
+  background-color: red;
+}
+.chald-2 {
+  grid-area: shar-2;
+  background-color: orange;
+}
+.chald-3 {
+  grid-area: tsenher-2;
+  background-color: blue;
+}
+.chald-4 {
+  grid-area: nogoon-2;
+  background-color: greenyellow;
+}
+.container-3 {
+  display: grid;
+  gap: 4px;
+  padding: 4px;
+  background-color: gray;
+  grid-template-rows: 60px 84px 40px;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-areas:
+    "shar-3 shar-3 shar-3"
+    "tsenher-3 ulaan-3 ulaan-3"
+    "nogoon-3 nogoon-3 nogoon-3";
+}
+.cheld-1 {
+  grid-area: ulaan-3;
+  background-color: red;
+}
+.cheld-2 {
+  grid-area: shar-3;
+  background-color: orange;
+}
+.cheld-3 {
+  grid-area: tsenher-3;
+  background-color: blue;
+}
+.cheld-4 {
+  grid-area: nogoon-3;
+  background-color: greenyellow;
+}
+.container-4 {
+  display: grid;
+  gap: 4px;
+  padding: 4px;
+  background-color: gray;
+  grid-template-rows: 70px 84px 30px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-areas:
+    "shar-4 shar-4 ulaan-4 ulaan-4"
+    "tsenher-4 nogoon-4 nogoon-4 nogoon-4"
+    "shar-5 shar-5 shar-5 shar-5";
+}
+.chuld-1 {
+  grid-area: ulaan-4;
+  background-color: red;
+}
+.chuld-2 {
+  grid-area: shar-4;
+  background-color: orange;
+}
+.chuld-3 {
+  grid-area: tsenher-4;
+  background-color: blue;
+}
+.chuld-4 {
+  grid-area: nogoon-4;
+  background-color: greenyellow;
+}
+.chuld-5 {
+  grid-area: shar-5;
+  background-color: orange;
+}
+.container-5 {
+  display: grid;
+  gap: 4px;
+  padding: 4px;
+  background-color: gray;
+  grid-template-rows: repeat(3, 32%);
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-areas:
+    "nugan-1 uloon-1 tsonh-1 bar-1 shud-1 uloon-2"
+    "shor-1 nugan-2 uloon-3 tsonh-2 shor-2 bar-2"
+    "nugan-3 bar-3 shud-2 uloon-4 nugan-4 shud-3";
+}
+.chpld-1 {
+  grid-area: nugan-1;
+  background-color: green;
+}
+.chpld-2 {
+  grid-area: uloon-1;
+  background-color: red;
+}
+.chpld-3 {
+  grid-area: tsonh-1;
+  background-color: blue;
+}
+.chpld-4 {
+  grid-area: bar-1;
+  background-color: brown;
+}
+.chpld-5 {
+  grid-area: shud-1;
+  background-color: aqua;
+}
+.chpld-6 {
+  grid-area: uloon-2;
+  background-color: red;
+}
+.chpld-7 {
+  grid-area: shor-1;
+  background-color: yellow;
+}
+.chpld-8 {
+  grid-area: nugan-2;
+  background-color: green;
+}
+.chpld-9 {
+  grid-area: uloon-3;
+  background-color: red;
+}
+.chpld-1-0 {
+  grid-area: tsonh-2;
+  background-color: blue;
+}
+.chpld-1-1 {
+  grid-area: shor-2;
+  background-color: yellow;
+}
+.chpld-1-2 {
+  grid-area: bar-2;
+  background-color: brown;
+}
+.chpld-1-3 {
+  grid-area: nugan-3;
+  background-color: green;
+}
+.chpld-1-4 {
+  grid-area: bar-3;
+  background-color: brown;
+}
+.chpld-1-5 {
+  grid-area: shud-2;
+  background-color: aqua;
+}
+.chpld-1-6 {
+  grid-area: uloon-4;
+  background-color: red;
+}
+.chpld-1-7 {
+  grid-area: nugan-4;
+  background-color: green;
+}
+.chpld-1-8 {
+  grid-area: shud-3;
+  background-color: aqua;
+}
+
+.container-6 {
+  display: grid;
+  gap: 4px;
+  padding: 4px;
+  background-color: gray;
+  grid-template-rows: repeat(5, 18%);
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-areas:
+    "red-1 red-1 green-1 orange-1"
+    "orange-2 green-2 aqua-1 ."
+    "orange-3 orange-3 greenyellow-1 red-2"
+    "orange-3 orange-3 green-3 ."
+    "aqua-3 aqua-3 aqua-3 orange-4";
+}
+.child-1 {
+  grid-area: red-1;
+  background-color: red;
+}
+.child-2 {
+  grid-area: green-1;
+  background-color: green;
+}
+.child-3 {
+  grid-area: orange-1;
+  background-color: orange;
+}
+.child-4 {
+  grid-area: aqua-1;
+  background-color: aqua;
+}
+.child-5 {
+  grid-area: orange-2;
+  background-color: orange;
+}
+.child-6 {
+  grid-area: greenyellow-1;
+  background-color: greenyellow;
+}
+.child-7 {
+  grid-area: red-2;
+  background-color: red;
+}
+.child-9 {
+  grid-area: orange-3;
+  background-color: orange;
+}
+.child-1-0 {
+  grid-area: green-2;
+  background-color: green;
+}
+.child-1-1 {
+  grid-area: green-3;
+  background-color: green;
+}
+.child-1-2 {
+  grid-area: aqua-3;
+  background-color: aqua;
+}
+.child-1-3 {
+  grid-area: orange-4;
+  background-color: orange;
+}
+.container-7 {
+  display: grid;
+  gap: 4px;
+  padding: 4px;
+  background-color: gray;
+  grid-template-rows: 60px 127px;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-areas:
+    "shar-7 nogoon-7"
+    "ulaan-7 nogoon-8";
+}
+.chld-4-4 {
+  display: grid;
+  gap: 4px;
+  padding: 4px;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 57px);
+  grid-template-areas:
+    "shur-1 shur-1"
+    "hogoon-8 shur-2";
+}
+.chld-3 {
+  grid-area: ulaan-7;
+  background-color: red;
+}
+.chld-2 {
+  grid-area: nogoon-7;
+  background-color: yellowgreen;
+}
+.chld-1 {
+  grid-area: shar-7;
+  background-color: orange;
+}
+.chld-4 {
+  grid-area: nogoon-8;
+  background-color: green;
+}
+.chld-4-4-1 {
+  grid-area: shur-1;
+  background-color: yellowgreen;
+}
+.chld-4-4-2 {
+  grid-area: hogoon-8;
+  background-color: darkgreen;
+}
+.chld-4-4-3 {
+  grid-area: shur-2;
+  background-color: orange;
+}

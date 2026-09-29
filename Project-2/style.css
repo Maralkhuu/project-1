@@ -168,7 +168,7 @@ body {
 }
 .duud-2 {
   width: 68px;
-  height: 48px;
+  height: 44px;
   border: solid white 1px;
   border-radius: 999px;
   font-size: 16px;
@@ -271,13 +271,12 @@ body {
   height: 18px;
 
   background: linear-gradient(
-    90deg,
+    to right,
     #0090f7 0%,
     #ba62fc 33.33%,
     #f2416b 66.67%,
     #f55600 100%
   );
-  -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
   margin-top: 324px;
@@ -637,7 +636,7 @@ body {
   scroll-snap-type: x mandatory;
 }
 .zurag-1 {
-  background-image: url(a71fa31c036fa4ebdb97754279e6264a8511c26a.jpg);
+  background-image: url(pachinko.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -645,6 +644,8 @@ body {
   scroll-snap-align: center;
   height: 668px;
   width: 1250px;
+  display: flex;
+  align-items: end;
 }
 .zurag-2 {
   background-image: url(0ef20c456c1f9e35f8cfc952ddd2340d8debbb86.jpg);
@@ -659,7 +660,7 @@ body {
   width: 1250px;
 }
 .zurag-3 {
-  background-image: url(a96232d2cffc7341eddba9393942d27673a1bb78.jpg);
+  background-image: url(lady-in-the-lake.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -667,6 +668,114 @@ body {
   scroll-snap-align: center;
   height: 668px;
   width: 1250px;
+  display: flex;
+  align-items: end;
+}
+.zurag-4 {
+  background-image: url(napoleon.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  flex-shrink: 0;
+  scroll-snap-align: center;
+  height: 668px;
+  width: 1250px;
+  display: flex;
+  align-items: end;
+}
+.zurag-5 {
+  background-image: url(bad-monkey.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  flex-shrink: 0;
+  scroll-snap-align: center;
+  height: 668px;
+  width: 1250px;
+  display: flex;
+  align-items: end;
+}
+.zurag-6 {
+  background-image: url(instigators.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  flex-shrink: 0;
+  scroll-snap-align: center;
+  height: 668px;
+  width: 1250px;
+  display: flex;
+  align-items: end;
+}
+.zurag-7 {
+  background-image: url(pressumed-innocent.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  flex-shrink: 0;
+  scroll-snap-align: center;
+  height: 668px;
+  width: 1250px;
+  display: flex;
+  align-items: end;
+}
+.zurag-8 {
+  background-image: url(season-pass.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  flex-shrink: 0;
+  scroll-snap-align: center;
+  height: 668px;
+  width: 1250px;
+  display: flex;
+  align-items: end;
+}
+.zurag-9 {
+  background-image: url(k-pop-idols.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  flex-shrink: 0;
+  scroll-snap-align: center;
+  height: 668px;
+  width: 1250px;
+  display: flex;
+  align-items: end;
+}
+.zurag-1-0 {
+  background-image: url(baseball.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  flex-shrink: 0;
+  scroll-snap-align: center;
+  height: 668px;
+  width: 1250px;
+  display: flex;
+  align-items: end;
+}
+.zurag-1-1 {
+  width: 133px;
+  height: 44px;
+  border-radius: 999px;
+  border: solid #f5f5f7;
+  background-color: #f5f5f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 17px;
+  color: #000000;
+  margin-left: 70px;
+  margin-bottom: 58px;
+}
+.zurag-1-2 {
+  width: 353px;
+  height: 20px;
+  color: white;
+  font-size: 17px;
+  margin-bottom: 68px;
+  margin-left: 20px;
 }
 .zurag-2-1 {
   width: 133px;
@@ -683,6 +792,182 @@ body {
   margin-bottom: 58px;
 }
 .zurag-2-2 {
+  width: 353px;
+  height: 20px;
+  color: white;
+  font-size: 17px;
+  margin-bottom: 68px;
+  margin-left: 20px;
+}
+.zurag-3-1 {
+  width: 133px;
+  height: 44px;
+  border-radius: 999px;
+  border: solid #f5f5f7;
+  background-color: #f5f5f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 17px;
+  color: #000000;
+  margin-left: 70px;
+  margin-bottom: 58px;
+}
+.zurag-3-2 {
+  width: 353px;
+  height: 20px;
+  color: white;
+  font-size: 17px;
+  margin-bottom: 68px;
+  margin-left: 20px;
+}
+.zurag-4-1 {
+  width: 133px;
+  height: 44px;
+  border-radius: 999px;
+  border: solid #f5f5f7;
+  background-color: #f5f5f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 17px;
+  color: #000000;
+  margin-left: 70px;
+  margin-bottom: 58px;
+}
+.zurag-4-2 {
+  width: 353px;
+  height: 20px;
+  color: white;
+  font-size: 17px;
+  margin-bottom: 68px;
+  margin-left: 20px;
+}
+.zurag-5-1 {
+  width: 133px;
+  height: 44px;
+  border-radius: 999px;
+  border: solid #f5f5f7;
+  background-color: #f5f5f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 17px;
+  color: #000000;
+  margin-left: 70px;
+  margin-bottom: 58px;
+}
+.zurag-5-2 {
+  width: 353px;
+  height: 20px;
+  color: white;
+  font-size: 17px;
+  margin-bottom: 68px;
+  margin-left: 20px;
+}
+.zurag-6-1 {
+  width: 133px;
+  height: 44px;
+  border-radius: 999px;
+  border: solid #f5f5f7;
+  background-color: #f5f5f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 17px;
+  color: #000000;
+  margin-left: 70px;
+  margin-bottom: 58px;
+}
+.zurag-6-2 {
+  width: 353px;
+  height: 20px;
+  color: white;
+  font-size: 17px;
+  margin-bottom: 68px;
+  margin-left: 20px;
+}
+.zurag-7-1 {
+  width: 133px;
+  height: 44px;
+  border-radius: 999px;
+  border: solid #f5f5f7;
+  background-color: #f5f5f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 17px;
+  color: #000000;
+  margin-left: 70px;
+  margin-bottom: 58px;
+}
+.zurag-7-2 {
+  width: 353px;
+  height: 20px;
+  color: white;
+  font-size: 17px;
+  margin-bottom: 68px;
+  margin-left: 20px;
+}
+.zurag-8-1 {
+  width: 133px;
+  height: 44px;
+  border-radius: 999px;
+  border: solid #f5f5f7;
+  background-color: #f5f5f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 17px;
+  color: #000000;
+  margin-left: 70px;
+  margin-bottom: 58px;
+}
+.zurag-8-2 {
+  width: 353px;
+  height: 20px;
+  color: white;
+  font-size: 17px;
+  margin-bottom: 68px;
+  margin-left: 20px;
+}
+.zurag-9-1 {
+  width: 133px;
+  height: 44px;
+  border-radius: 999px;
+  border: solid #f5f5f7;
+  background-color: #f5f5f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 17px;
+  color: #000000;
+  margin-left: 70px;
+  margin-bottom: 58px;
+}
+.zurag-9-2 {
+  width: 353px;
+  height: 20px;
+  color: white;
+  font-size: 17px;
+  margin-bottom: 68px;
+  margin-left: 20px;
+}
+.zurag-1-0-1 {
+  width: 180px;
+  height: 44px;
+  border-radius: 999px;
+  border: solid #f5f5f7;
+  background-color: #f5f5f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 17px;
+  color: #000000;
+  margin-left: 70px;
+  margin-bottom: 58px;
+}
+.zurag-1-0-2 {
   width: 353px;
   height: 20px;
   color: white;
@@ -797,7 +1082,7 @@ body {
   height: 13.81767463684082;
   color: black;
   margin-left: 176.26px;
-  margin-bottom: 23.07px;
+  margin-bottom: 20.07px;
 }
 .animation-5 {
   width: 417px;
@@ -814,3 +1099,18 @@ body {
   background-repeat: no-repeat;
   margin: 20px 15px;
 }
+.bullets {
+  width: 220px;
+  height: 8px;
+  margin: auto;
+}
+.bullet-1 {
+    width: 8px;
+    height: 8px;
+    opacity: 0.75;
+    margin-inline: 7px;
+    border-radius: 50%;
+    background-color: #0000006b;
+    transition: opacity ease 250ms;
+}
+

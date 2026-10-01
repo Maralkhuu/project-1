@@ -1211,7 +1211,7 @@ body {
   height: 20px;
   color: white;
   font-size: 17px;
-  margin-bottom: 68px;
+  margin-bottom: 78px;
   margin-left: 20px;
 }
 .zurag-4-1 {
@@ -1559,6 +1559,86 @@ body {
   .zurag-1-0 {
     width: 689px;
     height: 368px;
+  }
+  .zurag-1-1 {
+    margin-left: 30px;
+    margin-bottom: 27px;
+  }
+  .zurag-1-2 {
+    margin-left: 18px;
+    margin-bottom: 38px;
+  }
+  .zurag-2-1 {
+    margin-left: 30px;
+    margin-bottom: 27px;
+  }
+  .zurag-2-2 {
+    margin-left: 18px;
+    margin-bottom: 38px;
+  }
+  .zurag-3-1 {
+    margin-left: 30px;
+    margin-bottom: 27px;
+  }
+  .zurag-3-2 {
+    margin-left: 18px;
+    margin-bottom: 48px;
+  }
+  .zurag-4-1 {
+    margin-left: 30px;
+    margin-bottom: 27px;
+  }
+  .zurag-4-2 {
+    margin-left: 18px;
+    margin-bottom: 38px;
+  }
+  .zurag-5-1 {
+    margin-left: 30px;
+    margin-bottom: 27px;
+  }
+  .zurag-5-2 {
+    margin-left: 18px;
+    margin-bottom: 38px;
+  }
+  .zurag-6-1 {
+    margin-left: 30px;
+    margin-bottom: 27px;
+  }
+  .zurag-6-2 {
+    margin-left: 18px;
+    margin-bottom: 38px;
+  }
+  .zurag-7-1 {
+    margin-left: 30px;
+    margin-bottom: 27px;
+  }
+  .zurag-7-2 {
+    margin-left: 18px;
+    margin-bottom: 38px;
+  }
+  .zurag-8-1 {
+    margin-left: 30px;
+    margin-bottom: 27px;
+  }
+  .zurag-8-2 {
+    margin-left: 18px;
+    margin-bottom: 38px;
+  }
+  .zurag-9-1 {
+    margin-left: 30px;
+    margin-bottom: 27px;
+  }
+  .zurag-9-2 {
+    margin-left: 18px;
+    margin-bottom: 38px;
+  }
+  .zurag-1-0-1 {
+    margin-left: 30px;
+    margin-bottom: 27px;
+  }
+  .zurag-1-0-2 {
+    margin-left: 18px;
+    margin-bottom: 38px;
   }
 }
 @media (min-width: 769px) {

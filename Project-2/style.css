@@ -2230,48 +2230,52 @@ body {
   font-size: 16px;
   color: white;
 }
-.bus {
+.cerr {
   width: 100vw;
   height: 490px;
-  background-image: url(faea9510bf75f3061ee55679cd22eea7569fcf6a.png);
+  background-image: url(746c1b2b65a2e4b11fef8ab2ad8c64e76020395a.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   display: flex;
   justify-content: center;
 }
-.bus-0 {
-  width: 257px;
-  height: 168px;
+.cerr-0 {
+  width: 314px;
+  height: 152px;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   gap: 16px;
-  margin-top: 46px;
+  margin-top: 296px;
 }
-.bus-1 {
-  width: 257;
-  height: 116px;
+.cerr-1 {
+  width: 314px;
+  height: 100px;
   display: flex;
-  flex-direction: column;
   gap: 4px;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
 }
-.bus-1-1 {
-  height: 72px;
+.cerr-1-1 {
+  height: 36px;
   color: #1d1d1f;
-  font-size: 30px;
+  font-size: 28px;
+  display: flex;
+  justify-content: center;
 }
-.bus-1-2 {
-  height: 40px;
+.cerr-1-2 {
+  height: 60px;
   font-size: 18px;
   color: #1d1d1f;
+  display: flex;
+  text-align: center;
 }
-.bus-2 {
-  width: 107px;
+.cerr-2 {
+  width: 126px;
   height: 36px;
   border-radius: 999px;
   display: flex;
